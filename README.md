@@ -1,24 +1,23 @@
-# MTT CoHack Challenge : [Topic Name]
+# MTT CoHack Challenge : Empowering Productivity using Copilot Studio
 
 ## Introduction
 
-In this challenge-based hackathon, we will work together to ...
-
-![image](./images/image.png)
+This co-hack is designed to unlock the full potential of Copilot Studio, equipping you with innovative tools and strategies to streamline your workflow and enhance collaboration. Whether you’re looking to automate repetitive tasks, improve project management, or foster creativity within your team, this session will provide you with actionable insights and hands-on experience. Let’s dive in and discover how we can empower ourselves and our teams to achieve more with less effort!
 
 ## Requirements
 
-- Requirement 1
-- Requirement 2
-- Requirement 3
+- Basic Familiarity with Copilot Studio: Participants should have a foundational understanding of Copilot Studio and its functionalities.
+- Come ready to explore new ideas and share your experiences!
+- Be prepared to engage with fellow participants and contribute to group discussions.
 
 ## Learning Objectives
 
 This hack will help you learn:
 
-- Learning Objective 1
-- Learning Objective 2
-- Learning Objective 3
+Utilize Copilot Studio Features: Identify and effectively use key features of Copilot Studio to enhance productivity.
+Automate Tasks: Implement automation techniques to reduce repetitive tasks and save time.
+Enhance Collaboration: Explore strategies for improving team collaboration using Copilot Studio tools.
+Develop Customized Workflows: Create personalized workflows that align with individual and team goals.
 
 ## Success Criteria
 
